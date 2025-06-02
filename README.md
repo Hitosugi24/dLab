@@ -19,4 +19,4 @@ These files contain the communication protocol, the sample holder drawing, and d
 - `sem_20231025132200.txt`: Information about experimental conditions.
 
 ## XRD data Folder
-The folder contains LiCoO2(001) thin film XRD patterns via autonomous experiments in MaiML format.
+The folder contains LiCoO2(001) thin film XRD patterns obtained via autonomous experiments in MaiML format.
